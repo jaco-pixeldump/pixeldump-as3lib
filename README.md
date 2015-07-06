@@ -1,5 +1,5 @@
 # pixeldump-as3lib
-as3 general purposse classes collection
+as3 general purpose classes collection
 
 ## abstract
 every dev uses his own libs for daily work, this is just one of these, here an incomplete feature list:
